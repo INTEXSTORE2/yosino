@@ -27,8 +27,8 @@ let name = conn.getName(m.sender)
 
 //sewa
 let sh = '5'
-let sn = '15'
-let ss = '30'
+let sn = '10'
+let ss = '15'
 let sp = '35'
 let sv = '65'
 //premium
@@ -52,17 +52,15 @@ const sections = [{
 title: `⟥⟝⟢⟨ Sᴇᴡᴀ Bᴏᴛ ⟩⟣⟞⟤`,
 rows: [
 {title: "⟣⟨ HEMAT ⟩⟢",
-rowId: '.store sewabottt 7 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : 7 Hᴀʀɪ' },
+rowId: '.store sewabottt 10 Hari',
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 10 Hᴀʀɪ' },
 {title: "⟣⟨ NORMAL ⟩⟢",
-rowId: '.store sewabottt 15 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 15 Hᴀʀɪ' },
+rowId: '.store sewabottt 20 Hari',
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : 20 Hᴀʀɪ' },
 {title: "⟣⟨ STANDAR ⟩⟢",
 rowId: '.store sewabottt 30 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 20 ᴋ : 30 Hᴀʀɪ' },
+description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 30 ᴋ : 30 Hᴀʀɪ' },
 {title: "⟣⟨ PRO ⟩⟢",
-rowId: '.store sewabottt 40 hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 25 ᴋ : 40 Hᴀʀɪ' },
 ]},
 {
 title: `${htjava} PREMIUM ✦-------`,
