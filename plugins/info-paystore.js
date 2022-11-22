@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '3'
-let sn = '8'
+let sh = '5'
+let sn = '10'
 let ss = '15'
 let sp = '35'
 let sv = '65'
